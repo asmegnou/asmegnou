@@ -1,7 +1,7 @@
 # Hi there, I'm Assia  👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0bjJvdmdxbTYxcWR3ZjBzOTdwMndyZjU4bWRsMDNid2dpZzI1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjRrfIPjeiVyM/giphy.gif" alt="Cosmic Universe Gif" width="100%" />
+  <img src="./klee.gif" alt="Cosmic Universe Gif" width="100%" />
 </p>
 
 🎓 **Computer Science & AI Engineering Student** 
