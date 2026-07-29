@@ -1,5 +1,8 @@
-# Hi there, I'm Assia 👋
+# Hi there, I'm Assia  👋
 
+<p align="center">
+  <img src="https://i.gifer.com/fetch/w300-h300-k/https://64.media.tumblr.com/152865955b91b9b1e9b2f3424d868953/tumblr_oj6b333nNn1v0f7d5o1_500.gif" alt="Cosmic Universe Gif" width="100%" height="250px" style="border-radius: 15px; object-fit: cover;" />
+</p>
 🎓 **Computer Science & AI Engineering Student** 
 💡 Passionate about Software Development, Machine Learning, and Building Innovative Tech Solutions.
 
@@ -12,6 +15,7 @@
 #### **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,7 +36,7 @@
 ---
 
 ### 🌐 Connect with me
-- 💼 **LinkedIn:** [Assia Megnououche](https://www.linkedin.com/in/assia-megnououche)
+- 💼 **LinkedIn:** [Assia Megnououche](https://www.linkedin.com/in/assia-megnounif-788b44269/)
 - 🌐 **Portfolio:** [asmegnou.github.io](https://asmegnou.github.io/)
 - ✉️ **Contact:** [Get in touch](https://asmegnou.github.io/#contact)
 
