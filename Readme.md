@@ -42,10 +42,3 @@
 - ✉️ **Contact:** [Get in touch](https://asmegnou.github.io/#contact)
 
 ---
-
-### 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.zeit.sh/api?username=asmegnou&show_icons=true&theme=dracula" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.zeit.sh/api/top-languages/?username=asmegnou&layout=compact&theme=dracula" alt="Top Languages" width="48%" />
-</p>
