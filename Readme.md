@@ -1,8 +1,9 @@
 # Hi there, I'm Assia  👋
 
 <p align="center">
-  <img src="https://i.gifer.com/fetch/w300-h300-k/https://64.media.tumblr.com/152865955b91b9b1e9b2f3424d868953/tumblr_oj6b333nNn1v0f7d5o1_500.gif" alt="Cosmic Universe Gif" width="100%" height="250px" style="border-radius: 15px; object-fit: cover;" />
+  <img src="https://i.pinimg.com/originals/17/c3/0a/17c30a274865498d44b3c9f47ff37ee2.gif" alt="Cosmic Universe Gif" width="100%" height="250px" style="border-radius: 15px; object-fit: cover;" />
 </p>
+
 🎓 **Computer Science & AI Engineering Student** 
 💡 Passionate about Software Development, Machine Learning, and Building Innovative Tech Solutions.
 
@@ -45,6 +46,6 @@
 ### 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asmegnou&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=asmegnou&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.zeit.sh/api?username=asmegnou&show_icons=true&theme=dracula" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.zeit.sh/api/top-languages/?username=asmegnou&layout=compact&theme=dracula" alt="Top Languages" width="48%" />
 </p>
